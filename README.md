@@ -46,3 +46,6 @@ Document_QA_ChatBot/
 ├── requirements.txt       # Dependencies
 └── README.md              # This file
 
+---
+
+Made with ☕ and Python for developers who just want things to work.
