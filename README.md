@@ -48,4 +48,4 @@ Document_QA_ChatBot/
 
 ---
 
-Made with ☕ and Python.
+Made with ☕ and Python for developers.
